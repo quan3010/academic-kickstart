@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Quan Nguyen
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 
+- PhD candidate
+- Associate Lecuture
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Open University
   url: ""
+- name: University of Arts London
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include learning analytics, educational psychology, data science
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Learning Analytics
+- Educational Psychology
+- Data Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Learning Analytics
+    institution: Open University UK
+    year: 2019 (expected submission date Aug 2019)
+  - course: MSc in Economics and Information Management
+    institution: Maastricht University
+    year: 2016
+  - course: BSc in Economics and Information Management
+    institution: Maastricht University 
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +50,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Quannguyen3010
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=2ELBBq4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/quan3010
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Quan Nguyen is a PhD candidate in Learning Analytics at the Open University UK. His research focuses on using longitudinal multilevel model and network analysis methods to understand how teachers design their course in online learning environment and how learning design influences student temporal engagement patterns.  
