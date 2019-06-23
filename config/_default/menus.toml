@@ -27,10 +27,12 @@
   name = "Contact"
   url = "#contact"
   weight = 60
+
 [[main]]
     name = "CV"
-    url = "https://drive.google.com/file/d/1zKmMC90QYwBkJ0GKXJMLR1dTZ93UkWm0/view?usp=sharing"
+    url = "files/CV_Quan Nguyen.pdf"
     weight = 70
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
