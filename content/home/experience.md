@@ -25,11 +25,6 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2019-01-07"
   description = """Teaching Applied Statistics and Quantitative Research Methods at undergraduate and postgraduate level
-# Responsibilities include:
-  
-#  * Analysing
-#  * Modelling
-#  * Deploying
   """
 
 [[experience]]
@@ -39,10 +34,11 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2016-10-01"
   date_end = ""
-  description = """Data analyst for multiple educational projects including
-  *p1
-  *p2
-  *p3
+  description = """Data analyst for multiple educational projects including:
+  
+  * p1
+  * p2
+  * p3
   """
 
 +++
