@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Learning Analytics
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
@@ -41,10 +41,10 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#- icon: envelope
-#icon_pack: fas
-#link: "#contact".
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Quannguyen3010
@@ -54,12 +54,11 @@ education:
 - icon: github
   icon_pack: fab
   link: https://github.com/quan3010
-
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
-#  icon_pack: ai
-# link: files/CV_Quan Nguyen.pdf
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
