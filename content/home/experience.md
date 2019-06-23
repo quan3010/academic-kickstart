@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "London"
   date_start = "2018-01-01"
   date_end = "2019-01-07"
-  description = "Teaching Applied Statistics and Quantitatve Research Methods at undergraduate and postgraduate level"
+  description = """Teaching Applied Statistics and Quantitative Research Methods at undergraduate and postgraduate level
 # Responsibilities include:
   
 #  * Analysing
@@ -33,12 +33,16 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Data analyst"
+  company = "Open University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2016-10-01"
+  date_end = ""
+  description = """Data analyst for multiple educational projects including
+  *p1
+  *p2
+  *p3
+  """
 
 +++
