@@ -21,9 +21,9 @@ date_format = "Jan 2006"
   title = "Associate Lecturer in Applied Statistics"
   company = "University of Arts London"
   company_url = ""
-  location = "London"
+  location = ""
   date_start = "2018-01-01"
-  date_end = "2019-01-07"
+  date_end = "2019-07-01"
   description = """Teaching Applied Statistics and Quantitative Research Methods at undergraduate and postgraduate level
   """
 

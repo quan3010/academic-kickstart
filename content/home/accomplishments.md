@@ -19,33 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "LAK18"
+  organization_url = ""
+  title = "Best full paper award"
+  url = "http://bit.ly/2FTWRfH"
+  certificate_url = ""
+  date_start = "2018-03-15"
   date_end = ""
-  description = ""
+  description = "Nguyen, Q., Huptych M., Rienties. B. (2018). Linking student’s timing of engagement with learning design and academic performance. In Proceedings of the 8th International Conference on Learning Analytics and Knowledge (LAK18), pp. 141-150, Sydney, Australia. ACM, NY, USA.
+  (355 submissions, 30% acceptance rate)"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "HCII17"
+  organization_url = ""
+  title = "Best paper award"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2017-07-15"
+  date_end = ""
+  description = "Nguyen, Q., Rienties, B., & Toetenel, L. (2017). Mixing and matching learning design and learning analytics. In P. Zaphiris & A. Ioannou (Eds.), Learning and Collaboration Technologies: Forth International Conference, LCT 2017, Part II, Held as Part of HCI International 2017, Proceedings (Vol. 10296, pp. 1-15). Cham: Springer International Publishing (4,340 submissions, 28% acceptance rate)"
+  
 
 +++
