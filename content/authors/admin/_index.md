@@ -14,7 +14,7 @@ role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Open University
+- name: Open University UK
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,13 +28,13 @@ interests:
 education:
   courses:
   - course: PhD in Learning Analytics
-    institution: Open University UK
+    institution: Open University, United Kingdom
     year: 2019 (expected submission date Aug 2019)
   - course: MSc in Economics and Information Management
-    institution: Maastricht University
+    institution: Maastricht University, Netherlands
     year: 2016
   - course: BSc in Economics and Information Management
-    institution: Maastricht University 
+    institution: Maastricht University, Netherlands
     year: 2015
 
 # Social/Academic Networking
