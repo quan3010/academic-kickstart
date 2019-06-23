@@ -14,4 +14,6 @@ slides:
 ---
 
 ## Slide 1
-knitr::include_url('https://quannguyen.rbind.io/slides/xaringan_test#1')
+```{r}
+knitr::include_url('https://timmastny.rbind.io/slides/first_presentation#1')
+```
