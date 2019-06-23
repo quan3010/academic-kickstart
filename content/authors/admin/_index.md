@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Quan Nguyen is a PhD candidate in Learning Analytics at the Open University UK. His research focuses on using longitudinal multilevel model and network analysis methods to understand how teachers design their course in online learning environment and how learning design influences student temporal engagement patterns.  
+Quan Nguyen is a PhD candidate in Learning Analytics at the Open University UK and an Associate Lecturer in Applied Statistics at the University of Arts London. His research focuses on using longitudinal multilevel model and network analysis methods to understand how teachers design their course in online learning environment and how learning design influences student temporal engagement patterns.  
