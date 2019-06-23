@@ -26,8 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-03-15"
   date_end = ""
-  description = "Nguyen, Q., Huptych M., Rienties. B. (2018). Linking student’s timing of engagement with learning design and academic performance. In Proceedings of the 8th International Conference on Learning Analytics and Knowledge (LAK18), pp. 141-150, Sydney, Australia. ACM, NY, USA.
-  (355 submissions, 30% acceptance rate)"
+  description = "Nguyen, Q., Huptych M., Rienties. B. (2018). Linking student’s timing of engagement with learning design and academic performance. In Proceedings of the 8th International Conference on Learning Analytics and Knowledge (LAK18), pp. 141-150, Sydney, Australia. ACM, NY, USA. (355 submissions, 30% acceptance rate)"
 
 [[item]]
   organization = "HCII17"
