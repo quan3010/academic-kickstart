@@ -10,15 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: 
-- PhD candidate
-- Associate Lecuture
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
 - name: Open University
   url: ""
-- name: University of Arts London
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include learning analytics, educational psychology, data science
