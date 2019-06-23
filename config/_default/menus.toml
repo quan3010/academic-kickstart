@@ -28,10 +28,10 @@
   url = "#contact"
   weight = 60
 
-#[[main]]
-#   name = "CV"
-#   url = "files/CV_Quan Nguyen.pdf"
-#   weight = 70
+[[main]]
+   name = "CV"
+   url = "files/CV_Quan Nguyen.pdf"
+   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
