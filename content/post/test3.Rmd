@@ -1,11 +1,11 @@
 ---
-title: Use git to Blog(down) About Your Projects
+title: Embed Slides in Your Blog
 author: ~
-date: '2018-01-23'
-slug: git-blogdown-projects-workflow
+date: '2018-02-02'
+slug: embed-slides-knitr-blogdown
 categories: []
 tags: []
-description: How to use Git to improve blogdown and project workflow 
+description: How embed slides into your blogdown website with knitr 
 draft: false
 output:
   blogdown::html_page:
@@ -18,6 +18,21 @@ knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message=FALSE,
 ```
 
 ## Introduction
-```{r cars}
-summary(cars)
+
+It's [`rstudio::conf`](https://www.rstudio.com/conference/) time and I've seen a lot of great presentations shared on twitter. Unfortunately I couldn't come to the conference, but I thought I would do my part and write a short blog post on how to embed slideshows into a blog post. [Yihui Xie's](https://yihui.name/) knitr makes this very simple.
+
+But why would you want to embed your slideshow?
+
+1. An embedded slideshow makes it easier to talk about in a larger context.
+
+2. You can show specific slides without taking screenshots.
+
+3. You could place a series of plots into a slide deck and show them in your blog post. Instead of using vertical space, which is very difficult for the reader, this efficiently uses horizontal space and encourages the reader to explore the plots. 
+
+## Embed in one line of code
+
+Embedding a slideshow is easy. If it has a URL, you can embed with a single line of code:
+
+```{r}
+knitr::include_url('https://quannguyen.rbind.io/slides/xaringan_test#1')
 ```
