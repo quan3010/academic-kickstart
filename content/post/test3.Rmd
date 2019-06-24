@@ -1,0 +1,23 @@
+---
+title: Use git to Blog(down) About Your Projects
+author: ~
+date: '2018-01-23'
+slug: git-blogdown-projects-workflow
+categories: []
+tags: []
+description: How to use Git to improve blogdown and project workflow 
+draft: false
+output:
+  blogdown::html_page:
+    toc: true 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message=FALSE, 
+                      results='show', cache=FALSE, autodep=FALSE)
+```
+
+## Introduction
+```{r cars}
+summary(cars)
+```
