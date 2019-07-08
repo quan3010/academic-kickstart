@@ -12,6 +12,8 @@ header:
   caption: ""
   image: ""
   
+---
+
 Google Scholar: https://goo.gl/Uz21iH  (180 citations, h-index = 8) 
 **Referred Journal Articles**
 1.	Rienties, B., Tempelaar, T., Nguyen, Q., Littlejohn, A. Unpacking the intertemporal impact of self-regulation in a blended mathematics environment. Computers in Human Behavior (in press).
@@ -50,4 +52,3 @@ inconsistencies between learning design and students’ behaviours. Journal of L
 2.	Nguyen, Q., Tempelaar, D., Rienties, B. Latent profile analysis of assessment of, for and as learning and its association with self-regulation strategies in a blended mathematics and statistics course. Submitted to Educational Psychology (01-10-2018)
 3.	Nguyen, Q., Herodotou, C., Thorne, S., Rienties, B. (2019). Student engagement with digital online courses at the Open University: what is the impact of learning design and study breaks on engagement? In Conole, G., Brown, M., Mhichil, M. (Eds.), Taking the craic: tales of digital learning in Higher Education. Springer.
   
----
