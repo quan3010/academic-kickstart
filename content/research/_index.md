@@ -74,9 +74,10 @@ header:
 
 **Working papers**
 
-1.	**Nguyen, Q.**, Rienties, B., Richardson, John T.E. Learning analytics to uncover inequality in behavioural engagement and academic attainment in a distance learning setting. Submitted to Assessment and Evaluation in Higher Education (02-11-2018)
+1.	**Nguyen, Q.**, Tempelaar, D., Rienties, B. Latent profile analysis of assessment of, for and as learning and its association with self-regulation strategies in a blended mathematics and statistics course. 
 
-2.	**Nguyen, Q.**, Tempelaar, D., Rienties, B. Latent profile analysis of assessment of, for and as learning and its association with self-regulation strategies in a blended mathematics and statistics course. Submitted to Educational Psychology (01-10-2018)
+2.	**Nguyen, Q.**, Herodotou, C., Thorne, S., Rienties, B. (2019). Student engagement with digital online courses at the Open University: what is the impact of learning design and study breaks on engagement? In Conole, G., Brown, M., Mhichil, M. (Eds.), Taking the craic: tales of digital learning in Higher Education. Springer.
 
-3.	**Nguyen, Q.**, Herodotou, C., Thorne, S., Rienties, B. (2019). Student engagement with digital online courses at the Open University: what is the impact of learning design and study breaks on engagement? In Conole, G., Brown, M., Mhichil, M. (Eds.), Taking the craic: tales of digital learning in Higher Education. Springer.
-  
+3.  Submission to LAK20
+
+4.  Submission to Journal of Learning Analytics, special issue in Learning Design and Learning Analytics
