@@ -10,26 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Learning Analytics
+role: Postdoctoral Research Fellow in Educational Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: Open University UK
+- name: University of Michigan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include learning analytics, educational psychology, data science
+bio: My research interests include learning analytics, educational psychology, data science, temporal modelling
 
 interests:
 - Learning Analytics
 - Educational Psychology
-- Data Science
+- Educational Data Science
+- Temporal Modelling
 
 education:
   courses:
   - course: PhD in Learning Analytics
     institution: Open University, United Kingdom
-    year: 2019 (expected submission date Aug 2019)
+    year: 2019 (waiting for viva in Dec 4th)
   - course: MSc (cum laude) in Economics and Information Management
     institution: Maastricht University, Netherlands
     year: 2016
@@ -44,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link:  "mailto:quan.nguyen@open.ac.uk"
+  link:  "mailto:quanngu@umich.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Quannguyen3010
@@ -72,4 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Quan Nguyen is a PhD candidate in Learning Analytics at the Open University UK and an Associate Lecturer in Applied Statistics at the University of Arts London. His research focuses on using longitudinal multilevel model and network analysis methods to understand how teachers design their course in online learning environment and how learning design influences student temporal engagement patterns.  
+Quan Nguyen is a Postdoctoral Research Fellow in Educational Data Science at the School of Information, University of Michigan. His research is focusing on the temporal processes of learning data science toolkits (e.g. JupterNotebook) in online and distance education. Prior to joining UM, Quan was a PhD candidate in Learning Analytics at The Open University UK and an Associate Lecturer in Applied Statistics at the University of Arts London. His research employed multilevel models and network analysis methods to understand how teachers design their course in online learning environment and how learning design influences student temporal engagement patterns. His work received multiple best paper awards at established conferences (LAK18 and HCI Intermational 17). Quan had a background in Economics (BSc. & Msc.) at Maastricht University, Netherlands.
+
+Research Interest: Educational data science, learning analytics, educational psychology, temporal modelling, research methods
