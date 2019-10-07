@@ -12,7 +12,7 @@ header:
   caption: ""
   image: ""
   
-Google Scholar: https://goo.gl/Uz21iH  
+Google Scholar: https://goo.gl/Uz21iH    
 
 **Referred Journal Articles**
 1.	Nguyen, Q., Rienties, B., Richardson, J. (in press). Learning analytics to uncover inequality in behavioural engagement and academic attainment in a distance learning setting. Assessment & Evaluation in Higher Education
