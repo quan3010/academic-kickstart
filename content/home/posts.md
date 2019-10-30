@@ -10,8 +10,6 @@ weight = 60  # Order that this section will appear.
 title = "News"
 subtitle = ""
 
-*Ann Arbor, MI (Nov 8th, 2019)*
-I am giving a talk at the Academic Innovation Series, UMich
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -68,3 +66,7 @@ I am giving a talk at the Academic Innovation Series, UMich
  # CSS class.
  css_class = ""
 +++
+
+
+*Ann Arbor, MI (Nov 8th, 2019)*
+I am giving a talk at the Academic Innovation Series, UMich
