@@ -7,8 +7,11 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "News"
 subtitle = ""
+
+*Ann Arbor, MI (Nov 8th, 2019)*
+I am giving a talk at the Academic Innovation Series, UMich
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
