@@ -1,6 +1,6 @@
 +++
 title = "Example talk"
-date = 2019-11-08T12:00:00  # Schedule page publish date.
+date = 2019-10-08T12:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
