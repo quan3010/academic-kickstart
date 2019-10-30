@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 
-*Ann Arbor, MI (Nov 8th, 2019)*
+- **Ann Arbor, MI (Nov 8th, 2019)**
 I am giving a talk at the Academic Innovation Series, UMich
