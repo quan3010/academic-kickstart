@@ -1,6 +1,8 @@
 +++
 title = "Using temporal analytics to detect inconsistencies between learning design and student engagement"
-time_start = 2019-11-08
+date = 2019-11-08
+publishDate = 2019-10-08
+# Schedule page publish date.
 draft = false
 
 # Talk start and end times.
