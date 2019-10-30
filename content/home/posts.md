@@ -69,13 +69,13 @@ subtitle = ""
 
 
 - **Nov 8th, 2019**  
-I am giving a talk at the Academic Innovation Series, UMich
+I am giving a talk at the [AIM series](https://ai.umich.edu/events/aim-research-november/), Center of Academic Innovation, UMich.
 
 - **Oct 8th, 2019**  
-I am excited to start my postdoc at the School of Information, UMich working on learning analytics and educational data science
+I am excited to start my postdoc at the School of Information, UMich. I will be working in the [Educational Technology Collective](http://edtech.labs.si.umich.edu/) lab, led by Dr. Chris Brooks. I am looking forward to collaborating with many brilliant learning analytics researchers and practitioners at UMich!
 
 - **Sep 19th, 2019**  
-I am thrilled and relief to have submitted my Ph.D. thesis!
+I am thrilled(and relief) to have submitted my Ph.D. thesis!
 
 - **Jun 14th, 2019**  
 I am glad to receive the Erik Duval travel scholarship to attend the Learning Analytics Summer Institute (LASI) in Vancouver, Canada, hosted by UBC and SFU. Beautiful weather! 
