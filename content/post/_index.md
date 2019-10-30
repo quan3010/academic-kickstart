@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: News
 
 # View.
 #   1 = List
@@ -12,3 +12,7 @@ header:
   caption: ""
   image: ""
 ---
+
+*Ann Arbor, MI (Nov 8th, 2019)*
+I am giving a talk at the Academic Innovation Series at UMich
+
