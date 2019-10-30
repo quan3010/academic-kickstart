@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Slides"
+  name = "Talks"
   url = "#talks"
   weight = 30
 

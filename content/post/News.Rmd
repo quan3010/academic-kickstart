@@ -1,0 +1,10 @@
+---
+title: "News"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+*Ann Arbor, MI (November 8th, 2019)*
+I am giving a talk at the Academic Innovation series at UMich
