@@ -68,5 +68,18 @@ subtitle = ""
 +++
 
 
-- **Ann Arbor, MI (Nov 8th, 2019)**
+- **Nov 8th, 2019**
+
 I am giving a talk at the Academic Innovation Series, UMich
+
+- **Oct 8th, 2019**
+
+I am excited to start my postdoc at the School of Information, UMich working on learning analytics and educational data science
+
+- **Sep 19th, 2019**
+
+I am thrilled and relief to have submitted my Ph.D. thesis!
+
+- **Jun 14th, 2019**
+
+I am glad to receive the Erik Duval travel scholarship to attend the Learning Analytics Summer Institute (LASI) in Vancouver, Canada, hosted by UBC and SFU. Beautiful weather! 
