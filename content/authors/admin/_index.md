@@ -24,8 +24,6 @@ interests:
 - Learning Analytics
 - Educational Psychology
 - Educational Data Science
-- Temporal Modelling
-- Time-series Analysis
 
 education:
   courses:
@@ -74,5 +72,5 @@ user_groups:
 - Visitors
 ---
 
-Quan Nguyen is a Postdoctoral Research Fellow in Educational Data Science at the School of Information, University of Michigan. His research explores the temporal processes of learning using time-series analysis of digital traces in education. His current research project examines learning patterns in data science education by analyzing trace data collected from Jupyter Notebook. Prior to joining UM, Quan was a PhD candidate in Learning Analytics at The Open University UK and an Associate Lecturer in Applied Statistics at the University of Arts London. His research employed multilevel models and network analysis methods to understand how teachers design their course in online learning environment and how learning design influences student temporal engagement patterns. His work received multiple best paper awards at established conferences (LAK18 and HCI International 17). Quan had a background in Economics (BSc. & Msc.) at Maastricht University, Netherlands. 
+I am a Postdoctoral Research Fellow in Educational Data Science at the School of Information, University of Michigan. My research lies at the intersection of educational psychology and data science. Much of my work focuses on exploring learning behavioral patterns of students by analysing their digital traces to understand how their learning strategies and time management relate to academic performance. Prior to joining UM, I was a PhD candidate in Learning Analytics at The Open University UK and an Associate Lecturer in Applied Statistics at the University of Arts London. My PhD research employed multilevel models and network analysis methods to understand how teachers design their course in online learning environment and how learning design influences student temporal engagement patterns. My work has been published at top academic outlets such as Computers and Human Behaviors, IEEE Transactions on Learning Technologies and received multiple best paper awards at established conferences (LAK18 and HCI International 17). I had a background in Economics (BSc. & Msc.) at Maastricht University, Netherlands. 
 
