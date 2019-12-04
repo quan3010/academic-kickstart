@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Learning Analytics
     institution: Open University, United Kingdom
-    year: 2019 (waiting for viva in Dec 4th)
+    year: 2019 
   - course: MSc in Economics (cum laude)
     institution: Maastricht University, Netherlands
     year: 2016
