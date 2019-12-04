@@ -48,7 +48,7 @@ header:
 
 **Refereed and Published Conference Proceedings**
 
-1.	**Nguyen, Q.** (2019). Rethinking time-on-task estimation with outlier detection accounting for individual, time, and task differences. *In Proceedings of the 10th International Conference on Learning Analytics and Knowledge* (pp. ), Frankfurt, Germany.
+1.	**Nguyen, Q.** (2019). Rethinking time-on-task estimation with outlier detection accounting for individual, time, and task differences. *In Proceedings of the 10th International Conference on Learning Analytics and Knowledge LAK20* (pp. ), Frankfurt, Germany.
 
 2.  Tempelaar, D., Rienties, B., & **Nguyen, Q.** (2019). Analysing the use of worked examples and tutored and untutored problem-solving in a dispositional learning analytics context. *In: Proceedings of the 11th International Conference on Computer Supported Education*, 02-04 May 2019, Heraklion, Crete, Greece, pp.
 
