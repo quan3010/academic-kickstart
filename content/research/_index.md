@@ -18,7 +18,7 @@ header:
 
 **Referred Journal Articles**
 
-1.	**Nguyen, Q.**, Rienties, B., Richardson, J. (in press). Learning analytics to uncover inequality in behavioural engagement and academic attainment in a distance learning setting. *Assessment & Evaluation in Higher Education*.
+1.	**Nguyen, Q.**, Rienties, B., Richardson, J. (in press). [Learning analytics to uncover inequality in behavioural engagement and academic attainment in a distance learning setting](https://drive.google.com/file/d/1YxZDH0OB_whZJwcAiLsPmuXk4-RN3Gsw/view?usp=sharing). *Assessment & Evaluation in Higher Education*.
 
 2.  Rienties, B., Tempelaar, T., **Nguyen, Q.**, Littlejohn, A. (2019). Unpacking the intertemporal impact of self-regulation in a blended mathematics environment. *Computers in Human Behavior*, 100, 345-357.
 
