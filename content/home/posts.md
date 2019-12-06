@@ -68,6 +68,9 @@ subtitle = ""
 +++
 
 
+- **Dec 4th, 2019**  
+I have successfully defended my dissertation and become a Dr! 
+
 - **Nov 8th, 2019**  
 I am giving a talk at the [AIM series](https://ai.umich.edu/events/aim-research-november/), Center of Academic Innovation, UMich.
 
