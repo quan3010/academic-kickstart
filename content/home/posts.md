@@ -69,7 +69,7 @@ subtitle = ""
 
 
 - **Mar 22-27, 2020**  
-I am looking forward to presenting my research paper and an on-going workshop paper in temporal network analysis. 
+I am looking forward to presenting my research paper and an on-going workshop paper in temporal network analysis at LAK20 in Frankfurt, Germany. 
 
 - **Jan 17th, 2020**  
 I am excited to give a talk at the LINK research lab, University of Texas Arlington
