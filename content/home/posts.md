@@ -68,6 +68,12 @@ subtitle = ""
 +++
 
 
+- **Mar 22-27, 2020**  
+I am looking forward to presenting my research paper and an on-going workshop paper in temporal network analysis. 
+
+- **Jan 17th, 2020**  
+I am excited to give a talk at the LINK research lab, University of Texas Arlington
+
 - **Dec 4th, 2019**  
 I have successfully defended my dissertation and become a Dr! 
 
