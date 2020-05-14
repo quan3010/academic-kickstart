@@ -67,6 +67,11 @@ subtitle = ""
  css_class = ""
 +++
 
+- **May 13, 2020**  
+My research proposal "Students’ mobility patterns on campus and the implications for the recovery of campus activities post-pandemic" has been selected for funding through the [MIDAS Propelling Original Data Science (PODS) program for a COVID-19 mini-grants](midas.umich.edu/pods-covid19/)
+
+- **May 4, 2020**  
+My full paper "Exploring homophily in demographics and academic performance using spatial-temporal student networks", has been accepted as a full paper at the [13th International Conference on Educational Data Mining (EDM) 2020](http://educationaldatamining.org/edm2020/).
 
 - **Mar 22-27, 2020**  
 I am looking forward to presenting my research paper and an on-going workshop paper in temporal network analysis at LAK20 in Frankfurt, Germany. 
