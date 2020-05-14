@@ -77,8 +77,10 @@ My full paper "Exploring homophily in demographics and academic performance usin
 I am looking forward to presenting my research paper and an on-going workshop paper in temporal network analysis at LAK20 in Frankfurt, Germany. 
 
 - **Jan 17th, 2020**  
-I am excited to give a talk at the LINK research lab, University of Texas Arlington
+I am excited to give a talk ["Using Temporal Analytics to Detect Inconsistencies Between Learning Design and Student Engagement"](https://events.uta.edu/event/using_temporal_analytics_to_detect_inconsistencies_between_learning_design_and_student_engagement#.XryMIVkXYTQ) at the LINK research lab, University of Texas Arlington
 
+- **Jan 7th, 2020**  
+I was invited to deliver a workshop on Temporal and Sequential analysis at the [Learning Analyis Summer Institute (LASI20) in New York](https://www.solaresearch.org/events/lasi/lasi20/).
 - **Dec 4th, 2019**  
 I have successfully defended my dissertation and get awarded a PhD! 
 
