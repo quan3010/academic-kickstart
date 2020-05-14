@@ -80,7 +80,7 @@ I am looking forward to presenting my research paper and an on-going workshop pa
 I am excited to give a talk at the LINK research lab, University of Texas Arlington
 
 - **Dec 4th, 2019**  
-I have successfully defended my dissertation and become a Dr! 
+I have successfully defended my dissertation and get awarded a PhD! 
 
 - **Nov 8th, 2019**  
 I am giving a talk at the [AIM series](https://ai.umich.edu/events/aim-research-november/), Center of Academic Innovation, UMich.
