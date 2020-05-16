@@ -74,7 +74,7 @@ My research proposal "Students’ mobility patterns on campus and the implicatio
 My study "Exploring homophily in demographics and academic performance using spatial-temporal student networks", has been accepted as a full paper at the [13th International Conference on Educational Data Mining (EDM) 2020](http://educationaldatamining.org/edm2020/).
 
 - **Mar 22-27, 2020**  
-I am looking forward to presenting my research paper and an on-going workshop paper in temporal network analysis at LAK20 in Frankfurt, Germany. 
+I am looking forward to presenting my research paper and an on-going workshop paper in temporal network analysis at LAK20 in Frankfurt, Germany. Update: the conference was held virtually.
 
 - **Jan 17th, 2020**  
 I am excited to give a talk ["Using Temporal Analytics to Detect Inconsistencies Between Learning Design and Student Engagement"](https://events.uta.edu/event/using_temporal_analytics_to_detect_inconsistencies_between_learning_design_and_student_engagement#.XryMIVkXYTQ) at the LINK research lab, University of Texas Arlington
