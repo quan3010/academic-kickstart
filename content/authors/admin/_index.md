@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Quan Nguyen
+/kwaan ŋwɪn/
 
 # Username (this should match the folder name)
 authors:
