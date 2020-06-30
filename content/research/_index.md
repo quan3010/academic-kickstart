@@ -18,33 +18,37 @@ header:
 
 **Referred Journal Articles**
 
-1.	**Nguyen, Q.**, Rienties, B., Richardson, J. (in press). [Learning analytics to uncover inequality in behavioural engagement and academic attainment in a distance learning setting](https://drive.google.com/file/d/1YxZDH0OB_whZJwcAiLsPmuXk4-RN3Gsw/view?usp=sharing). *Assessment & Evaluation in Higher Education*.
+1.	Tempelaar D., Rienties B., **Nguyen Q.** (2020) Subjective data, objective data and the role of bias in predictive modelling: Lessons from a dispositional learning analytics application. PLoS ONE 15(6): e0233977. https://doi.org/10.1371/journal.pone.0233977
 
-2.  Rienties, B., Tempelaar, T., **Nguyen, Q.**, Littlejohn, A. (2019). Unpacking the intertemporal impact of self-regulation in a blended mathematics environment. *Computers in Human Behavior*, 100, 345-357.
+Tempelaar, D., **Nguyen, Q.**, Rienties, B. (2020). Individual differences in the preference for worked examples: lessons from an application of dispositional learning analytics. Applied Cognitive Psychology, 1-16.
 
-3.	Wayne, H., **Nguyen, Q.**, Zhang, J., Mavrikis, M,. Rienties, B. (2019). Learning Analytics for Learning Design in Online Distance Learning. *Distance Education*, 40 (3), 309-329.
+3.  **Nguyen, Q.**, Rienties, B., Richardson, J. (2020). [Learning analytics to uncover inequality in behavioural engagement and academic attainment in a distance learning setting](https://drive.google.com/file/d/1YxZDH0OB_whZJwcAiLsPmuXk4-RN3Gsw/view?usp=sharing). *Assessment & Evaluation in Higher Education*, 45 (4), 594-606.
 
-4.	Tempelaar, D., Rienties, B., Mittelmeier, J., **Nguyen, Q.** (2018). Student profiling in a dispositional learning analytics application using formative assessment. *Computers in Human Behavior*, 78, 408-420. 
+4.  Rienties, B., Tempelaar, T., **Nguyen, Q.**, Littlejohn, A. (2019). Unpacking the intertemporal impact of self-regulation in a blended mathematics environment. *Computers in Human Behavior*, 100, 345-357.
 
-5.	Tempelaar, D., Rienties, B., & **Nguyen, Q.** (2018). A multi-modal study into students’ timing and learning regulation: time is ticking. *Interactive Technology and Smart Education*, 15(4), 298–313.
+5.	Wayne, H., **Nguyen, Q.**, Zhang, J., Mavrikis, M,. Rienties, B. (2019). Learning Analytics for Learning Design in Online Distance Learning. *Distance Education*, 40 (3), 309-329.
 
-6.	**Nguyen, Q.**, Thorne, S., & Rienties, B. (2018). How do students engage with computer-based assessments: impact of study breaks on intertemporal engagement and pass rates. *Behaviormetrika*. 1-18.
+6.	Tempelaar, D., Rienties, B., Mittelmeier, J., **Nguyen, Q.** (2018). Student profiling in a dispositional learning analytics application using formative assessment. *Computers in Human Behavior*, 78, 408-420. 
 
-7.	**Nguyen, Q.**, Huptych, M., Rienties, B. (2018). Using temporal analytics to detect inconsistencies between learning design and students’ behaviours. *Journal of Learning Analytics*, 5(3), 120-135.
+7.	Tempelaar, D., Rienties, B., & **Nguyen, Q.** (2018). A multi-modal study into students’ timing and learning regulation: time is ticking. *Interactive Technology and Smart Education*, 15(4), 298–313.
 
-8.	Mittelmeier, J., Edwards, R. L., Davis, S. K., **Nguyen, Q.**, Murphy, V., Brummer, L., & Rienties, B. (2018) “A double-edged sword. This is powerful, but it could be used destructively”: Perspectives of early career researchers on learning analytics. *Frontline Learning Research*, 6(2), 20-38.
+8.	**Nguyen, Q.**, Thorne, S., & Rienties, B. (2018). How do students engage with computer-based assessments: impact of study breaks on intertemporal engagement and pass rates. *Behaviormetrika*. 1-18.
 
-9.	**Nguyen, Q.**, Rienties, B., Toetenel, L., Ferguson, R., & Whitelock, D. (2017). Examining the designs of computer-based assessment and its impact on student engagement, satisfaction, and pass rates. *Computers in Human Behavior*, 76, 703-714. 
+9.	**Nguyen, Q.**, Huptych, M., Rienties, B. (2018). Using temporal analytics to detect inconsistencies between learning design and students’ behaviours. *Journal of Learning Analytics*, 5(3), 120-135.
 
-10.	Tempelaar, D., Rienties, B., & **Nguyen, Q.** (2017). Adding dispositions to create pedagogy-based Learning Analytics. *Zeitschrift für Hochschulentwicklung*, 12(1), 15-35.
+10.	Mittelmeier, J., Edwards, R. L., Davis, S. K., **Nguyen, Q.**, Murphy, V., Brummer, L., & Rienties, B. (2018) “A double-edged sword. This is powerful, but it could be used destructively”: Perspectives of early career researchers on learning analytics. *Frontline Learning Research*, 6(2), 20-38.
 
-11.	Tempelaar, D. T., Rienties, B., & **Nguyen, Q.** (2017). Towards Actionable Learning Analytics Using Dispositions. *IEEE Transactions on Learning Technologies*, 10(1), 6-16. 
+11.	**Nguyen, Q.**, Rienties, B., Toetenel, L., Ferguson, R., & Whitelock, D. (2017). Examining the designs of computer-based assessment and its impact on student engagement, satisfaction, and pass rates. *Computers in Human Behavior*, 76, 703-714. 
 
-12.	Rienties, B., **Nguyen, Q.**, Holmes, W., Reedy, K. (2017). A review of ten years of implementation and research in aligning learning design with learning analytics at the Open University UK. *Interaction Design and Architecture(s)*. N.33, pp. 134-154.
+12.	Tempelaar, D., Rienties, B., & **Nguyen, Q.** (2017). Adding dispositions to create pedagogy-based Learning Analytics. *Zeitschrift für Hochschulentwicklung*, 12(1), 15-35.
 
-13.	Rienties, B., Lewis, T., McFarlane, R., **Nguyen, Q.**, & Toetenel, L. (2017). Analytics in online and offline language learning environments: the role of learning design to understand student online engagement. *Journal of Computer-Assisted Language Learning*. 1-21. 
+13.	Tempelaar, D. T., Rienties, B., & **Nguyen, Q.** (2017). Towards Actionable Learning Analytics Using Dispositions. *IEEE Transactions on Learning Technologies*, 10(1), 6-16. 
 
-14.	**Nguyen, Q.**, Tempelaar, D. T., Rienties, B., & Giesbers, B. (2016). What learning analytics based prediction models tell us about feedback preferences of students. *Quarterly Review of Distance Education*, 17(3), 13-33.  
+14.	Rienties, B., **Nguyen, Q.**, Holmes, W., Reedy, K. (2017). A review of ten years of implementation and research in aligning learning design with learning analytics at the Open University UK. *Interaction Design and Architecture(s)*. N.33, pp. 134-154.
+
+15.	Rienties, B., Lewis, T., McFarlane, R., **Nguyen, Q.**, & Toetenel, L. (2017). Analytics in online and offline language learning environments: the role of learning design to understand student online engagement. *Journal of Computer-Assisted Language Learning*. 1-21. 
+
+16.	**Nguyen, Q.**, Tempelaar, D. T., Rienties, B., & Giesbers, B. (2016). What learning analytics based prediction models tell us about feedback preferences of students. *Quarterly Review of Distance Education*, 17(3), 13-33.  
 
 **Refereed and Published Conference Proceedings**
 
@@ -75,11 +79,6 @@ header:
 1.	Tempelaar, D., **Nguyen, Q.**, Rienties, B. (in press). Learning Feedback Based on Dispositional Learning Analytics. In M. Virvou et al. (eds.), Machine Learning Paradigms, Intelligent Systems
 
 **Working papers**
-
-1.	**Nguyen, Q.**, Tempelaar, D., Rienties, B. Latent profile analysis of assessment of, for and as learning and its association with self-regulation strategies in a blended mathematics and statistics course. 
-
-2.	**Nguyen, Q.**, Herodotou, C., Thorne, S., Rienties, B. (2019). Student engagement with digital online courses at the Open University: what is the impact of learning design and study breaks on engagement? In Conole, G., Brown, M., Mhichil, M. (Eds.), Taking the craic: tales of digital learning in Higher Education. Springer.
-
-3.  Submission to LAK20
-
-4.  Submission to Journal of Learning Analytics, special issue in Learning Design and Learning Analytics
+1. Exploring the diversity in peer-to-peer interactions on campus from spatial co-occurences
+2. Identifying layers of social circle in peer interactions on campus
+3. Students' mobility patterns on campus and the implications for the recovery of educational activities post-pandemic
