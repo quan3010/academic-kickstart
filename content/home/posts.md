@@ -77,18 +77,18 @@ My study "Exploring homophily in demographics and academic performance using spa
 I am looking forward to presenting my research paper and an on-going workshop paper in temporal network analysis at LAK20 in Frankfurt, Germany. Update: the conference was held virtually.
 
 - **Jan 17th, 2020**  
-I am excited to give a talk ["Using Temporal Analytics to Detect Inconsistencies Between Learning Design and Student Engagement"](https://events.uta.edu/event/using_temporal_analytics_to_detect_inconsistencies_between_learning_design_and_student_engagement#.XryMIVkXYTQ) at the LINK research lab, University of Texas Arlington
+I am excited to give a talk ["Using Temporal Analytics to Detect Inconsistencies Between Learning Design and Student Engagement"](https://events.uta.edu/event/using_temporal_analytics_to_detect_inconsistencies_between_learning_design_and_student_engagement#.XryMIVkXYTQ) at the LINK research lab, University of Texas Arlington, USA
 
 - **Jan 7th, 2020**  
-I was invited to deliver a workshop on Temporal and Sequential analysis at the [Learning Analyis Summer Institute (LASI20) in New York](https://www.solaresearch.org/events/lasi/lasi20/).
+I was invited to deliver a workshop on Temporal and Sequential analysis at the [Learning Analyis Summer Institute (LASI20) in New York](https://www.solaresearch.org/events/lasi/lasi20/), USA.
 - **Dec 4th, 2019**  
-I have successfully defended my dissertation and get awarded a PhD! 
+I have successfully defended my dissertation and got awarded a PhD! 
 
 - **Nov 8th, 2019**  
 I am giving a talk at the [AIM series](https://ai.umich.edu/events/aim-research-november/), Center of Academic Innovation, UMich.
 
 - **Oct 8th, 2019**  
-I am excited to start my postdoc at the School of Information, UMich. I will be working in the [Educational Technology Collective](http://edtech.labs.si.umich.edu/) lab, led by Dr. Chris Brooks. I am looking forward to collaborating with many brilliant learning analytics researchers and practitioners at UMich!
+I am excited to start my postdoc at the School of Information, UMich. I will be working in the [Educational Technology Collective](http://edtech.labs.si.umich.edu/) lab, led by Dr. Chris Brooks. I am looking forward to collaborating with many brilliant learning analytics researchers and practitioners at University of Michigan!
 
 - **Sep 19th, 2019**  
 I am thrilled(and relief) to have submitted my Ph.D. thesis!
