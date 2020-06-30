@@ -52,21 +52,23 @@ header:
 
 **Refereed and Published Conference Proceedings**
 
-1.	**Nguyen, Q.** (2019). Rethinking time-on-task estimation with outlier detection accounting for individual, time, and task differences. *In Proceedings of the 10th International Conference on Learning Analytics and Knowledge LAK20* (pp. ), Frankfurt, Germany.
+1.	**guyen, Q.**, Poquet, O., Brooks, C., Li, W. (in press). Exploring homophily in demographics and academic performance using spatial-temporal student networks. Paper presented at the Educational Data Mining (EDM 2020).
 
-2.  Tempelaar, D., Rienties, B., & **Nguyen, Q.** (2019). Analysing the use of worked examples and tutored and untutored problem-solving in a dispositional learning analytics context. *In: Proceedings of the 11th International Conference on Computer Supported Education*, 02-04 May 2019, Heraklion, Crete, Greece, pp.
+3.  **Nguyen, Q.** (2019). Rethinking time-on-task estimation with outlier detection accounting for individual, time, and task differences. *In Proceedings of the 10th International Conference on Learning Analytics and Knowledge LAK20* (pp. ), Frankfurt, Germany.
 
-3.	**Nguyen, Q.**, Huptych M., Rienties. B. (2018). Linking student’s timing of engagement with learning design and academic performance (best full paper award). *In Proceedings of the 8th International Conference on Learning Analytics and Knowledge (LAK18)*, pp. 141-150, Sydney, Australia. ACM, NY, USA.
+4.  Tempelaar, D., Rienties, B., & **Nguyen, Q.** (2019). Analysing the use of worked examples and tutored and untutored problem-solving in a dispositional learning analytics context. *In: Proceedings of the 11th International Conference on Computer Supported Education*, 02-04 May 2019, Heraklion, Crete, Greece, pp.
 
-4.	Tempelaar, D., Rienties, B., & **Nguyen, Q.** (2018). Investigating learning strategies in a dispositional learning analytics context: the case of worked examples. *In Proceedings of the 8th International Conference on Learning Analytics and Knowledge* (pp. 201-205). Sydney, Australia. ACM, NY, USA.
+5.	**Nguyen, Q.**, Huptych M., Rienties. B. (2018). Linking student’s timing of engagement with learning design and academic performance (best full paper award). *In Proceedings of the 8th International Conference on Learning Analytics and Knowledge (LAK18)*, pp. 141-150, Sydney, Australia. ACM, NY, USA.
 
-5.	Tempelaar, D., Rienties, B., **Nguyen, Q.** (2018). Analysing the Use of Worked Examples and Tutored and Untutored Problem-Solving in a Dispositional Learning Analytics Context. In: *Proceedings of the 10th International Conference on Computer Supported Education*, 01-02 Feb 2018, Funchal, Madeira, pp. 294–301.
+6.	Tempelaar, D., Rienties, B., & **Nguyen, Q.** (2018). Investigating learning strategies in a dispositional learning analytics context: the case of worked examples. *In Proceedings of the 8th International Conference on Learning Analytics and Knowledge* (pp. 201-205). Sydney, Australia. ACM, NY, USA.
 
-6.	**Nguyen, Q.**, Rienties, B., & Toetenel, L. (2017). Mixing and matching learning design and learning analytics (best paper award). *In P. Zaphiris & A. Ioannou (Eds.), Learning and Collaboration Technologies: Forth International Conference, LCT 2017, Part II, Held as Part of HCI International 2017*, Proceedings (Vol. 10296, pp. 1-15). Cham: Springer International Publishing.
+7.	Tempelaar, D., Rienties, B., **Nguyen, Q.** (2018). Analysing the Use of Worked Examples and Tutored and Untutored Problem-Solving in a Dispositional Learning Analytics Context. In: *Proceedings of the 10th International Conference on Computer Supported Education*, 01-02 Feb 2018, Funchal, Madeira, pp. 294–301.
 
-7.	**Nguyen, Q.**, Rienties, B., & Toetenel, L. (2017). Unravelling the dynamics of instructional practice: a longitudinal study on learning design and VLE activities. In: *Proceedings of the 7th International Learning Analytics & Knowledge Conference, LAK 17*, ACM, New York, NY, USA, pp. 168–177.
+8.	**Nguyen, Q.**, Rienties, B., & Toetenel, L. (2017). Mixing and matching learning design and learning analytics (best paper award). *In P. Zaphiris & A. Ioannou (Eds.), Learning and Collaboration Technologies: Forth International Conference, LCT 2017, Part II, Held as Part of HCI International 2017*, Proceedings (Vol. 10296, pp. 1-15). Cham: Springer International Publishing.
 
-8.	Mittelmeier, J., Tempelaar, D., Rienties, B., & **Nguyen, Q.** (2016). Learning analytics to understand cultural impacts on technology enhanced learning. Paper presented at *the 13th International Conference on Cognition and Exploratory Learning in Digital Age* (CELDA 2016). 
+9.	**Nguyen, Q.**, Rienties, B., & Toetenel, L. (2017). Unravelling the dynamics of instructional practice: a longitudinal study on learning design and VLE activities. In: *Proceedings of the 7th International Learning Analytics & Knowledge Conference, LAK 17*, ACM, New York, NY, USA, pp. 168–177.
+
+10.	Mittelmeier, J., Tempelaar, D., Rienties, B., & **Nguyen, Q.** (2016). Learning analytics to understand cultural impacts on technology enhanced learning. Paper presented at *the 13th International Conference on Cognition and Exploratory Learning in Digital Age* (CELDA 2016). 
 
 **Reports**
 
