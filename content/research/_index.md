@@ -20,7 +20,7 @@ header:
 
 1.	Tempelaar D., Rienties B., **Nguyen Q.** (2020) Subjective data, objective data and the role of bias in predictive modelling: Lessons from a dispositional learning analytics application. PLoS ONE 15(6): e0233977. https://doi.org/10.1371/journal.pone.0233977
 
-Tempelaar, D., **Nguyen, Q.**, Rienties, B. (2020). Individual differences in the preference for worked examples: lessons from an application of dispositional learning analytics. Applied Cognitive Psychology, 1-16.
+2.  Tempelaar, D., **Nguyen, Q.**, Rienties, B. (2020). Individual differences in the preference for worked examples: lessons from an application of dispositional learning analytics. Applied Cognitive Psychology, 1-16.
 
 3.  **Nguyen, Q.**, Rienties, B., Richardson, J. (2020). [Learning analytics to uncover inequality in behavioural engagement and academic attainment in a distance learning setting](https://drive.google.com/file/d/1YxZDH0OB_whZJwcAiLsPmuXk4-RN3Gsw/view?usp=sharing). *Assessment & Evaluation in Higher Education*, 45 (4), 594-606.
 
