@@ -68,7 +68,7 @@ subtitle = ""
 +++
 
 - **May 13, 2020**  
-My research proposal "Students’ mobility patterns on campus and the implications for the recovery of campus activities post-pandemic" has been selected (7 out of 49 submissions) for funding through the [MIDAS Propelling Original Data Science (PODS) program for a COVID-19 mini-grants](midas.umich.edu/pods-covid19/)
+My research proposal ["Students’ mobility patterns on campus and the implications for the recovery of campus activities post-pandemic"](https://midas.umich.edu/covid19-pods-grants-nguyen-brooks-romero/) has been selected (7 out of 49 submissions) for funding through the MIDAS Propelling Original Data Science (PODS) program for a COVID-19 mini-grants.
 
 - **May 4, 2020**  
 My study "Exploring homophily in demographics and academic performance using spatial-temporal student networks", has been accepted as a full paper at the [13th International Conference on Educational Data Mining (EDM) 2020](http://educationaldatamining.org/edm2020/).
