@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Learning Analytics
+  - course: PhD in Education Technologies (Learning Analytics)
     institution: Open University, United Kingdom
     year: 2019 
   - course: MSc in Economics (cum laude)
