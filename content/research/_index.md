@@ -37,7 +37,7 @@ A full publication record can be found in my [Google Scholar](https://goo.gl/Uz2
 6.	Tempelaar, D. T., Rienties, B., & **Nguyen. Q.** (2017). Towards Actionable Learning Analytics Using Dispositions. *IEEE Transactions on Learning Technologies*, 10(1), 6-16. [PDF](https://drive.google.com/file/d/162ZQ5JbXDQ0RnOm0ojo5r667X1wtDUJz/view?usp=sharing)
 
 
-7.	Tempelaar, D., **Nguyen. Q.**, Rienties, B. (2020). Individual differences in the preference for worked examples: lessons from an application of dispositional learning analytics. *Applied Cognitive Psychology*, 34(4), 890-905. [PDF]( https://drive.google.com/file/d/1t-m2833fEGyXMH5Hc5m5el1lml2nyBc7/view?usp=sharing)
+7.	Tempelaar, D., Rienties, B, **Nguyen. Q.**. (2020). Individual differences in the preference for worked examples: lessons from an application of dispositional learning analytics. *Applied Cognitive Psychology*, 34(4), 890-905. [PDF]( https://drive.google.com/file/d/1t-m2833fEGyXMH5Hc5m5el1lml2nyBc7/view?usp=sharing)
 
 
 8.	Tempelaar, D., Rienties, B., & **Nguyen. Q.** (2020). Subjective data, objective data and the role of bias in predictive modelling: Lessons from a dispositional learning analytics application. *PLOS ONE*, 15(6), e0233977. [PDF]( https://drive.google.com/file/d/1qpYtXyqc9PNBUuFHvwQi1tV288H3OIS4/view?usp=sharing)
