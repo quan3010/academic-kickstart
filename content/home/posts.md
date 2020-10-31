@@ -67,8 +67,13 @@ subtitle = ""
  css_class = ""
 +++
 
+
+
 - **Oct 31, 2020**  
 My submission on spatial-temporal network has been accepted for presentation at the AERA 21 roundtable on Advanced Statistical Methods for Complex Data.
+
+- **Sep 18, 2020**  
+My poster submission on modeling peer interactions from spatial-temporal network was presented at the [AERA Sattlelitte conference in Educational Data Science](https://iriss.stanford.edu/css/conferences/conference-educational-data-science/agenda). You can find the [poster](https://stanford.app.box.com/s/vf1vh5dy0kulvwy1rxtrorn68u502huw) here and the [talk](https://stanford.app.box.com/s/70nbtzid8v6c6kcua8nujegnk672nvfj) here
 
 - **May 13, 2020**  
 My research proposal ["Students’ mobility patterns on campus and the implications for the recovery of campus activities post-pandemic"](https://midas.umich.edu/covid19-pods-grants-nguyen-brooks-romero/) has been selected (7 out of 49 submissions) for funding through the MIDAS Propelling Original Data Science (PODS) program for a COVID-19 mini-grants.
