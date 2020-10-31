@@ -67,6 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
+- **Oct 31, 2020**  
+My submission on spatial-temporal network has been accepted for presentation at the AERA 21 roundtable on Advanced Statistical Methods for Complex Data.
+
 - **May 13, 2020**  
 My research proposal ["Students’ mobility patterns on campus and the implications for the recovery of campus activities post-pandemic"](https://midas.umich.edu/covid19-pods-grants-nguyen-brooks-romero/) has been selected (7 out of 49 submissions) for funding through the MIDAS Propelling Original Data Science (PODS) program for a COVID-19 mini-grants.
 
