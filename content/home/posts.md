@@ -67,7 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
-
+- **Nov 10-11, 2020**  
+I am excited give a research talk on using spatial-temporal network data to inform strategies to reopen campuses during pandemic at the [Michigan Institute of Data Science (MIDAS) Annual Symposium 2020](https://midas.umich.edu/2020-symposium-research-talks/).
 
 - **Oct 31, 2020**  
 My submission on spatial-temporal network has been accepted for presentation at the AERA 21 roundtable on Advanced Statistical Methods for Complex Data.
