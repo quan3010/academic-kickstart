@@ -66,9 +66,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- **Aug 01, 2021**  
+I am excited to start a new position as a Teaching Fellow in the UBC Master of Data Science!
 
-- **Dec 01, 2020**  
-I was invited to lead a workshop on Temporal Analytics at the Learning Analytics Summer Institute 2021, hosted virtually by UBC.
+- **Jun 01, 2021**  
+I lead a workshop on Temporal Analytics at the Learning Analytics Summer Institute 2021, hosted virtually by UBC.
 
 - **Nov 10-11, 2020**  
 I am excited give a research talk on using spatial-temporal network data to inform strategies to reopen campuses during pandemic at the [Michigan Institute of Data Science (MIDAS) Annual Symposium 2020](https://midas.umich.edu/2020-symposium-research-talks/).
