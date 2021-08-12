@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Postdoc in Learning Analytics
+    institution: University of Michigan-Ann Arbor, US
+    year: 2021
   - course: PhD in Learning Analytics
     institution: Open University, United Kingdom
     year: 2019 
