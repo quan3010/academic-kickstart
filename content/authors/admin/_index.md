@@ -22,8 +22,8 @@ bio: My research interests include learning analytics, educational psychology, d
 
 interests:
 - Learning Analytics
+- Data Science Education
 - Educational Psychology
-- Educational Data Science
 
 education:
   courses:
