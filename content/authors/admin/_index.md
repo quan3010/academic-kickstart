@@ -57,9 +57,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/quan3010
-- icon: cv
-  icon_pack: ai
-  link: https://drive.google.com/file/d/1nfnk-ehUuwij_CvkfwMIrwtazbyimJ-0/view?usp=sharing
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -75,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Teaching Fellow at the [UBC Master of Data Science](https://ubc-mds.github.io) where I develop and teach data science courses. Prior to UBC, I was a Postdoctoral Research Fellow in Learning Analytics at the School of Information, University of Michigan. My research focuses on analysing digital traces in educational settings to detect temporal discrepancies between course design and student engagement, and the subsequent effects on academic performance. My second research strand is to model peer interactions and peer influence on academic choices and performance. My work employed a wide range of statistical and computational techniques, such as multilevel modeling, network analysis, time-series/temporal analysis, and machine learning. My work has received multiple best paper awards at established conferences (e.g. LAK18 and HCI International 17). Prior to joining UMich, I was a PhD candidate in Learning Analytics at The Open University UK and an Associate Lecturer in Applied Statistics at the University of Arts London. I have a background in Economics (BSc. & Msc.) at Maastricht University, Netherlands.
+I am a Teaching Fellow at the [UBC Master of Data Science](https://ubc-mds.github.io) where I develop and teach data science courses. Prior to UBC, I was a Postdoctoral Research Fellow in Learning Analytics at the School of Information, University of Michigan. My research applies statistical and machine learning techniques on large-scale clickstream data from learning management systems to predict student performance and interactions. My work has received multiple best paper awards at established conferences (e.g. LAK18 and HCI International 17). Prior to joining UMich, I was a PhD candidate in Learning Analytics at The Open University UK and an Associate Lecturer in Applied Statistics at the University of Arts London. I have a background in Economics (BSc. & Msc.) at Maastricht University, Netherlands.
