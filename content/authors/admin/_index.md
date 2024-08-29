@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Teaching Fellow in UBC Master of Data Science
+role: Assistant Professor in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: University of British Columbia
+- name: Thompson Rivers University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include learning analytics, educational psychology, data science, temporal modelling
+bio: My research interests include learning analytics, generative AI in education, data science education
 
 interests:
 - Learning Analytics
 - Data Science Education
-- Educational Psychology
+- Applied AI/ML
 
 education:
   courses:
@@ -71,6 +71,9 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
----
 
-I am a Teaching Fellow at the [UBC Master of Data Science](https://ubc-mds.github.io) where I develop and teach data science courses in statistical inference, time-series, and data science communication. Prior to UBC, I was a Postdoctoral Research Fellow in Learning Analytics at the School of Information, University of Michigan. My research applies statistical and machine learning techniques on large-scale clickstream data from learning management systems to predict student performance and interactions. My work has received multiple best paper awards at established conferences (e.g. LAK18 and HCI International 17). Prior to joining UMich, I was a PhD candidate in Learning Analytics at The Open University UK and an Associate Lecturer in Applied Statistics at the University of Arts London. I have a background in Economics (BSc. & Msc.) at Maastricht University, Netherlands.
+I am an Assistant Professor in the Computer Science department at Thompson Rivers University. My research centers on the impact of generative AI on the learning experiences of underrepresented minorities in computer science education. Before joining TRU, I was a Postdoctoral Teaching Fellow at the [UBC Master of Data Science](https://ubc-mds.github.io), where I developed and taught a variety of data science courses, including those on statistical inference, machine learning, and technical communication. In addition to teaching, I coordinated the capstone program, facilitating student collaborations with industry partners on real-world data science projects. 
+
+Prior to UBC, I worked as a Postdoctoral Research Fellow in Learning Analytics at the School of Information, University of Michigan. My research focuses on analyzing students social interactions and peer effects from spatio-temporal large scale data. My work has been recognized with competitive grants, and multiple best paper awards at prominent conferences, including LAK18 and HCI International 17.
+
+I hold a PhD in Learning Analytics at The Open University UK, a BSc and MSc in Economics from Maastricht University, Netherlands.
