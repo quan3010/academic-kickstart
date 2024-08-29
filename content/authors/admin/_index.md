@@ -71,6 +71,7 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+---
 
 I am an Assistant Professor in the Computer Science department at Thompson Rivers University. My research centers on the impact of generative AI on the learning experiences of underrepresented minorities in computer science education. Before joining TRU, I was a Postdoctoral Teaching Fellow at the [UBC Master of Data Science](https://ubc-mds.github.io), where I developed and taught a variety of data science courses, including those on statistical inference, machine learning, and technical communication. In addition to teaching, I coordinated the capstone program, facilitating student collaborations with industry partners on real-world data science projects. 
 
