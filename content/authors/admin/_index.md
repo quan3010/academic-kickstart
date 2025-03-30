@@ -23,15 +23,18 @@ bio: My research interests include learning analytics, generative AI in educatio
 interests:
 - Learning Analytics
 - Data Science Education
-- Applied AI/ML in education
+- Artificial intelligence in education (AIED)
 
 education:
   courses:
-  - course: Postdoc in Learning Analytics
+  - course: Postdoc, Department of Statistics
+    institution: University of British Columbia
+    year: 2024
+  - course: Postdoc, School of Information
     institution: University of Michigan-Ann Arbor, US
     year: 2021
   - course: PhD in Learning Analytics
-    institution: Open University, United Kingdom
+    institution: The Open University, United Kingdom
     year: 2019 
   - course: MSc in Economics (cum laude)
     institution: Maastricht University, Netherlands
@@ -73,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor in the Computer Science department at Thompson Rivers University. My research centers on the impact of generative AI on the learning behavior and outcome in computer science education. Before joining TRU, I was a Postdoctoral Teaching Fellow at the [UBC Master of Data Science](https://ubc-mds.github.io), where I developed and taught a variety of data science courses, including those on statistical inference, machine learning, and technical communication. In addition to teaching, I coordinated the capstone program, facilitating student collaborations with industry partners on real-world data science projects. 
+I am a tenure-track Assistant Professor in the Computer Science department at Thompson Rivers University. My research centers on the impact of generative AI on the learning behavior and outcome in computer science education. Before joining TRU, I was a Postdoctoral Teaching Fellow at the UBC Master of Data Science, where I developed and taught a variety of data science courses, including those on statistical inference, machine learning, and technical communication. In addition to teaching, I coordinated the capstone program, facilitating student collaborations with industry partners on real-world data science projects. 
 
 Prior to UBC, I worked as a Postdoctoral Research Fellow in Learning Analytics at the School of Information, University of Michigan. My research focuses on analyzing students social interactions and peer effects from spatio-temporal large scale data. My work has been recognized with competitive grants, and multiple best paper awards at prominent conferences, including LAK18 and HCI International 17.
 
