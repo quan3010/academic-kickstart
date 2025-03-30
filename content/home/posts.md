@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- **Aug 01, 2021**  
+<!-- - **Aug 01, 2021**  
 I am excited to start a new position as a Teaching Fellow in the UBC Master of Data Science!
 
 - **Jun 01, 2021**  
@@ -108,4 +108,4 @@ I am excited to start my postdoc at the School of Information, UMich. I will be 
 I am thrilled (and relief) to have submitted my Ph.D. thesis!
 
 - **Jun 14th, 2019**  
-I am glad to receive the Erik Duval travel scholarship to attend the Learning Analytics Summer Institute (LASI) in Vancouver, Canada, hosted by UBC and SFU. Beautiful weather! 
+I am glad to receive the Erik Duval travel scholarship to attend the Learning Analytics Summer Institute (LASI) in Vancouver, Canada, hosted by UBC and SFU. Beautiful weather!  -->
