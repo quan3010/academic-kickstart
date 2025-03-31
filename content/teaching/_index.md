@@ -9,6 +9,7 @@ Welcome to my teaching page! Here, you can find information about the courses I 
 
 ### Current Teaching (09/2024 – now)
 **Master of Data Science, Thompson Rivers University**
+
 - **DASC 5410**: Database Management for Data Science  
 - **ADSC 3610**: Database Systems in Applied Data Science 2  
 - **ADSC 3910**: Applied Data Science Integrated Practice 2  
