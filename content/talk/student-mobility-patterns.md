@@ -1,10 +1,8 @@
 +++
-title = "Students’ Mobility Patterns on Campus Post-Pandemic"
-date = 2020-05-01T12:00:00
+title = "Students’ Mobility Patterns on Campus Post-Pandemic (MIDAS Grant: $30,000)"
+date = 2020-05-01
 publishDate = 2020-04-01
 draft = false
-
-authors = ["Quan Nguyen"]
 
 summary = "This project explores students' mobility patterns on campus and their implications for the recovery of campus activities post-pandemic. Sponsored by MIDAS, the research was conducted in collaboration with Christopher Brooks, Daniel Romero, Tim McKay, and Ben Koester."
 

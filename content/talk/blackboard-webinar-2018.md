@@ -1,13 +1,10 @@
 +++
 title = "Invited Webinar at Blackboard"
-date = 2018-06-14T12:00:00
+date = 2018-06-14
 publishDate = 2018-05-14
 draft = false
 
-authors = ["Quan Nguyen"]
-
 summary = "Excited to deliver the webinar, 'Linking students’ timing of engagement to learning design and academic performance,' hosted by Blackboard on June 14th, 2018!"
-
 
 event = "Blackboard Webinar"
 event_url = ""

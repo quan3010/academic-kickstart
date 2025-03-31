@@ -1,10 +1,8 @@
 +++
 title = "Invited Talk at University of Toronto, Department of Mechanical Engineering"
-date = 2024-03-08T12:00:00
+date = 2024-03-08
 publishDate = 2024-02-08
 draft = false
-
-authors = ["Quan Nguyen"]
 
 summary = "Excited to deliver an invited talk at the University of Toronto, Department of Mechanical Engineering, Toronto, ON, on March 8th, 2024!"
 

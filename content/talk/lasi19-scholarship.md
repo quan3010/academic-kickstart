@@ -1,10 +1,8 @@
 +++
-title = "Travel Scholarship for LASI19"
-date = 2019-06-26T12:00:00
+title = "Travel Scholarship for LASI19 ($1,250)"
+date = 2019-06-26
 publishDate = 2019-05-26
 draft = false
-
-authors = ["Quan Nguyen"]
 
 summary = "Delighted to receive a $1,250 travel scholarship to attend the Learning Analytics Summer Institute (LASI) 2019 in the vibrant city of Vancouver, Canada!"
 

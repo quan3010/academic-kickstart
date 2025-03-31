@@ -1,10 +1,8 @@
 +++
-title = "Travel Scholarship at London Festival of Learning"
-date = 2018-06-20T12:00:00
+title = "Travel Scholarship at London Festival of Learning ($2,000)"
+date = 2018-06-20
 publishDate = 2018-05-20
 draft = false
-
-authors = ["Quan Nguyen"]
 
 summary = "Excited to have been awarded a $2,000 travel scholarship for presenting the Best Paper at the International Alliance session during the London Festival of Learning, UK, 2018!"
 

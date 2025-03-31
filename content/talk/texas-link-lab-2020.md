@@ -1,10 +1,8 @@
 +++
 title = "Invited Talk at University of Texas, Arlington, LINK Research Lab"
-date = 2020-01-17T12:00:00
+date = 2020-01-17
 publishDate = 2019-12-17
 draft = false
-
-authors = ["Quan Nguyen"]
 
 summary = "Delighted to give an invited talk at the University of Texas, Arlington, LINK Research Lab, Arlington, TX, on January 17th, 2020!"
 

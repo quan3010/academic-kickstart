@@ -1,10 +1,8 @@
 +++
 title = "Invited Talk at University of Michigan, Center of Academic Innovation"
-date = 2019-11-08T12:00:00
+date = 2019-11-08
 publishDate = 2019-10-08
 draft = false
-
-authors = ["Quan Nguyen"]
 
 summary = "Thrilled to present at the University of Michigan, Center of Academic Innovation, Ann Arbor, MI, on November 8th, 2019!"
 

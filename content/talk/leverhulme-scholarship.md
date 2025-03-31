@@ -1,10 +1,8 @@
 +++
-title = "Leverhulme Doctoral Scholarship"
-date = 2016-09-01T12:00:00
+title = "Leverhulme Doctoral Scholarship (£70,000)"
+date = 2016-09-01
 publishDate = 2016-08-01
 draft = false
-
-authors = ["Quan Nguyen"]
 
 summary = "Grateful to have been awarded the prestigious Leverhulme Doctoral Scholarship (£70,000) to fund my PhD journey for three incredible years (2016-2019)!"
 
