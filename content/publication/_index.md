@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-![](google_scholar.png)
+![google-scholar.png](https://postimg.cc/mz3MtQxw)
 
 Please view my full list of publications on [Google Scholar](https://scholar.google.ca/citations?user=2ELBBq4AAAAJ&hl=en).
 
