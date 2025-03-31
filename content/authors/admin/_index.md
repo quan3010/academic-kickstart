@@ -60,7 +60,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/quan3010
-- icon: file-alt
+- icon: CV
   icon_pack: fas
   link: files/CV_Quan Nguyen.pdf  # Link to your CV
 
