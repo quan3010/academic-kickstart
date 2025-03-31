@@ -3,7 +3,7 @@ title: "Beyond answers: How a pedagogy-driven AI encourages students to think an
 authors:
 - Quan Nguyen
 - Vivek Kumar
-date: 2023-01-01
+date: 2025-01-01
 publication_types: ["3"]
 publication: "Under review in the Proceedings of the 26th International Conference on Artificial Intelligence in Education"
 publisher: ""
