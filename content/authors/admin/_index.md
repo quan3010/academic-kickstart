@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: Postdoc, Department of Statistics
-    institution: University of British Columbia
+    institution: University of British Columbia, Canada
     year: 2024
   - course: Postdoc, School of Information
-    institution: University of Michigan-Ann Arbor, US
+    institution: University of Michigan-Ann Arbor, USA
     year: 2021
   - course: PhD in Learning Analytics
     institution: The Open University, United Kingdom
@@ -60,7 +60,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/quan3010
-
+- icon: file-alt
+  icon_pack: fas
+  link: files/CV_Quan Nguyen.pdf  # Link to your CV
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
