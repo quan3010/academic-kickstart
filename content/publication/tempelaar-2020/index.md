@@ -4,7 +4,7 @@ authors:
 - Dirk Tempelaar
 - Bart Rienties
 - Quan Nguyen
-date: 2020-01-01
+date: 2020-12-01
 publication_types: ["2"]
 publication: "PLOS ONE, Volume 15, Number 6, Page e0233977"
 publisher: "Public Library of Science San Francisco, CA USA"
