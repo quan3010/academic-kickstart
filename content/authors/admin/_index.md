@@ -60,9 +60,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/quan3010
-- icon: CV
-  icon_pack: fas
-  link: files/CV_Quan Nguyen.pdf  # Link to your CV
+- icon: ""
+  icon_pack: custom
+  link: files/CV_Quan_Nguyen.pdf  # Link to your CV
+  custom_icon: img/cv-icon.png
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
