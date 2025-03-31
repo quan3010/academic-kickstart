@@ -7,7 +7,6 @@ draft = false
 authors = ["Quan Nguyen"]
 
 summary = "Excited to contribute to the 'Data-informed Learning Design for Future Schools' project, sponsored by Beijing Normal University. Led by Wayne Holmes (PI), with an incredible team including Bart Rienties, Denise Whitelock, Jingjing Zhang (BNU), Manolis Mavrikis (UCL), and myself, we were awarded $20,000 for this forward-thinking initiative (January – December 2017)."
-abstract_short = "Data-informed learning design project."
 
 event = "Beijing Normal University Project"
 event_url = ""

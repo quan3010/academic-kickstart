@@ -7,7 +7,7 @@ draft = false
 authors = ["Quan Nguyen"]
 
 summary = "Excited to deliver the webinar, 'Linking students’ timing of engagement to learning design and academic performance,' hosted by Blackboard on June 14th, 2018!"
-abstract_short = "Webinar on learning design and engagement."
+
 
 event = "Blackboard Webinar"
 event_url = ""

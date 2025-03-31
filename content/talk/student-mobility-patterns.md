@@ -7,7 +7,6 @@ draft = false
 authors = ["Quan Nguyen"]
 
 summary = "This project explores students' mobility patterns on campus and their implications for the recovery of campus activities post-pandemic. Sponsored by MIDAS, the research was conducted in collaboration with Christopher Brooks, Daniel Romero, Tim McKay, and Ben Koester."
-abstract_short = "Exploring students' mobility patterns post-pandemic."
 
 event = "MIDAS Research Project"
 event_url = ""

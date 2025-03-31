@@ -7,7 +7,6 @@ draft = false
 authors = ["Quan Nguyen"]
 
 summary = "Honored to receive the Research Excellence Awards – runner-up ($1,200) for the impactful contributions to OU Teaching & Learning, Curriculum, and Students in 2018!"
-abstract_short = "Runner-up for the Research Excellence Awards."
 
 event = "OU Research Excellence Awards"
 event_url = ""

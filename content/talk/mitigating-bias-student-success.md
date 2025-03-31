@@ -1,7 +1,34 @@
 +++
 title = "Mitigating Bias in Predictive Models of Student Success"
-date = 2021-10-01
+date = 2021-10-01T12:00:00
+publishDate = 2021-09-01
 draft = false
+
+authors = ["Quan Nguyen"]
+
+summary = "Thrilled to be part of the project 'Investigating How to Mitigate Bias in Predictive Models of Student Success Across Diverse Institutions,' sponsored by Google. Led by Christopher Brooks (PI) and Rene Kizilcec (co-PI), with co-applicants Joshua Gardner, Renzhe Yu, and myself, we were awarded $60,000 to tackle this critical challenge."
+
+event = "Google-Sponsored Research Project"
+event_url = ""
+
+location = "Online"
+
+selected = false
+
+projects = []
+
+tags = ["Bias Mitigation", "Predictive Models", "Student Success"]
+
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
+[image]
+  caption = ""
+  focal_point = "Smart"
 +++
 
-Thrilled to be part of the project "Investigating How to Mitigate Bias in Predictive Models of Student Success Across Diverse Institutions," sponsored by Google. Led by Christopher Brooks (PI) and Rene Kizilcec (co-PI), with co-applicants Joshua Gardner, Renzhe Yu, and myself, we were awarded $60,000 to tackle this critical challenge.
+{{% alert note %}}
+This project was funded by Google with a grant of $60,000.
+{{% /alert %}}

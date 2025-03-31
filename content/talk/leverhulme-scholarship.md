@@ -7,7 +7,6 @@ draft = false
 authors = ["Quan Nguyen"]
 
 summary = "Grateful to have been awarded the prestigious Leverhulme Doctoral Scholarship (£70,000) to fund my PhD journey for three incredible years (2016-2019)!"
-abstract_short = "Leverhulme Doctoral Scholarship for PhD funding."
 
 event = "Leverhulme Doctoral Scholarship"
 event_url = ""

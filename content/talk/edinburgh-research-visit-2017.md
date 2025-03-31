@@ -7,7 +7,6 @@ draft = false
 authors = ["Quan Nguyen"]
 
 summary = "Grateful for the opportunity to visit the University of Edinburgh, hosted by Prof. Dragan Gasevic and Prof. Yannis Dimiatris, in 2017!"
-abstract_short = "Research visit at University of Edinburgh."
 
 event = "Research Visit"
 event_url = ""

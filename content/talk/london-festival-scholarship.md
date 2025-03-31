@@ -7,7 +7,6 @@ draft = false
 authors = ["Quan Nguyen"]
 
 summary = "Excited to have been awarded a $2,000 travel scholarship for presenting the Best Paper at the International Alliance session during the London Festival of Learning, UK, 2018!"
-abstract_short = "Travel scholarship for London Festival of Learning."
 
 event = "London Festival of Learning"
 event_url = ""
