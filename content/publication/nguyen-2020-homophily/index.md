@@ -11,7 +11,7 @@ publication: "Paper presented at the International Conference on Educational Dat
 publisher: "International Educational Data Mining Society"
 doi: ""
 abstract: ""
-featured: false
+featured: true
 url_pdf: "https://files.eric.ed.gov/fulltext/ED607906.pdf"
 url_code: ""
 url_dataset: ""

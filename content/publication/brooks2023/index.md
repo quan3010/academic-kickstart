@@ -29,7 +29,7 @@ tags:
 - Artificial Intelligence
 - Education
 
-featured: false
+featured: true
 
 # links:
 url_pdf: "https://www.elgaronline.com/edcollchap/book/9781800375413/book-part-9781800375413-27.xml"
