@@ -1,77 +1,81 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Quan Nguyen
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Quan
+last_name: Nguyen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor in Computer Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Thompson Rivers University
+    url: 'https://www.tru.ca/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include learning analytics, generative AI in education, and data science education.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Learning Analytics
+  - Data Science Education
+  - Artificial Intelligence in Education (AIED)
+  - Generative AI in Education
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Postdoc, Department of Statistics
+      institution: University of British Columbia, Canada
+      year: 2024
+    - course: Postdoc, School of Information
+      institution: University of Michigan-Ann Arbor, USA
+      year: 2021
+    - course: PhD in Learning Analytics
+      institution: The Open University, United Kingdom
+      year: 2019
+    - course: MSc in Economics (cum laude)
+      institution: Maastricht University, Netherlands
+      year: 2016
+    - course: BSc in Economics
+      institution: Maastricht University, Netherlands
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:lnguyen@tru.ca'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Quannguyen3010
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=2ELBBq4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: https://github.com/quan3010
+  - icon: cv
+    icon_pack: ai
+    link: https://drive.google.com/file/d/1nAxA2flz-hjFaie8ZBzqqpmtM6FWJbwo/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a tenure-track Assistant Professor in the Computer Science department at Thompson Rivers University. My research centers on the impact of generative AI on the learning behavior and outcomes in computer science education. Before joining TRU, I was a Postdoctoral Fellow at the UBC Master of Data Science, where I developed and taught a variety of data science courses, including those on statistical inference, machine learning, and technical communication. In addition to teaching, I coordinated the capstone program, facilitating student collaborations with industry partners on real-world data science projects.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to UBC, I worked as a Postdoctoral Fellow in Learning Analytics at the School of Information, University of Michigan. My research focuses on analyzing students' social interactions and peer effects from spatio-temporal large scale data. My work has been recognized with competitive grants and multiple best paper awards at prominent conferences, including LAK18 and HCI International 2017.
+
+I hold a PhD in Learning Analytics from The Open University UK, and a BSc and MSc in Economics from Maastricht University, Netherlands.

@@ -1,25 +1,18 @@
 # SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-# Appearance
-
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
   font: native
   font_size: L
 
 # SEO
-
 marketing:
   seo:
-    site_type: Organization
+    site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Quan Nguyen - Assistant Professor in Computer Science at Thompson Rivers University. Research in Learning Analytics, Generative AI in Education, and Data Science Education.'
+    twitter: 'Quannguyen3010'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -30,7 +23,6 @@ marketing:
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
@@ -42,37 +34,31 @@ header:
     highlight_active_link: false
 
 # Site footer
-
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Quan Nguyen'
     license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      enable: false
 
 # Localization
-
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
 # Site features
-
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
-      - latex
+      - python
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: ''
     content_dir: content
     branch: main
   avatar:
@@ -80,16 +66,6 @@ features:
     shape: circle
   comment:
     provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -98,12 +74,11 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: ''
     api_key: ''
     zoom: 15
 
 # Extensions
-
 extensions:
   decap_cms:
     branch: main
@@ -112,7 +87,6 @@ extensions:
     enable: true
 
 # Citation style
-
 publications:
   date_format: January 2006
   citation_style: apa
