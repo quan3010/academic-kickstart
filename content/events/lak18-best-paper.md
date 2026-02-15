@@ -1,0 +1,16 @@
+---
+title: "Best Full Paper Award at LAK18"
+date: 2018-03-07
+draft: false
+summary: "Thrilled to have won the Best Full Paper Award at the 8th International Conference on Learning Analytics & Knowledge (LAK18) in Sydney, Australia, 2018! With 355 submissions and a 30% acceptance rate, this recognition is truly special."
+event_name: "8th International Conference on Learning Analytics & Knowledge (LAK18)"
+location: "Sydney, Australia"
+tags:
+- Best Paper
+- LAK18
+- Learning Analytics
+---
+
+{{< callout note >}}
+This award recognized my contribution to the field of Learning Analytics at LAK18.
+{{< /callout >}}

@@ -1,0 +1,27 @@
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
+
+marketing:
+  analytics:
+    google_analytics: ""
+
+features:
+  syntax_highlighter:
+    enable: true
+    theme_light: github-light
+    theme_dark: dracula
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+
+locale:
+  date_format: "Jan 2, 2006"
+  time_format: "3:04 PM"
+
+publications:
+  date_format: "January 2006"
+  citation_style: apa

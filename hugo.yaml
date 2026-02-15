@@ -1,0 +1,35 @@
+baseURL: "https://quannguyen.rbind.io/"
+title: "Quan Nguyen"
+
+enableGitInfo: false
+defaultContentLanguage: en
+removePathAccents: true
+pagination:
+  pagerSize: 10
+enableEmoji: true
+
+hasCJKLanguage: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    lineNos: false
